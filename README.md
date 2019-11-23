@@ -1,9 +1,9 @@
 # Showlist
 show the list of music list.
 
-/home/rishi/Screenshot_20191124-003126.jpeg
+Screenshots:-
+![Screenshot_20191124-011407](https://user-images.githubusercontent.com/42871956/69484331-09a5e780-0e58-11ea-90ee-633364942fd8.jpeg)
 
-/home/rishi/Screenshot_20191124-003120.jpeg
 
 
 
