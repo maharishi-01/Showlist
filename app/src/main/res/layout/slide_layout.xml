@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/eat"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="50dp"
+        />
+
+    <TextView
+        android:id="@+id/heder"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView"
+        android:textColor="@color/colorWhite"
+        android:text="Header"
+        android:layout_margin="45dp"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="66dp"
+        android:layout_below="@+id/heder"
+        android:textColor="@color/colorWhite"
+        android:textSize="13dp"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="66dp"
+        android:id="@+id/decr"/>
+</RelativeLayout>
